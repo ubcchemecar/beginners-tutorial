@@ -19,7 +19,8 @@ Please install the following tools:
 # 4. Edit the index.html file
 1. Using Sublime Text, go to 'File' and select 'Open Folder', then choose the folder where you saved the repository in.
 2. Open the index.html file
-3. Type in the following code:
+3. Type in the code below.
+4. Save the file and open index.html in your browser. You should see a webpage with the title `My first site` and `Hello world` as the contents.
 
 ```
 <html>
@@ -32,4 +33,21 @@ Please install the following tools:
 </html>
 ```
 
-4. Save the file and open index.html in your browser. You should see a webpage with the title `My first site` and `Hello world` as the contents.
+# 5. Git Commit and Git Push
+1. Go back to GitHub Desktop and select your repository.
+2. It'll show that you have uncommitted changes. Type in a short description and click commit.
+3. Click the sync button.
+4. Navigate to your the GitHub.com repository in your browser and click on the index.html file.
+5. If it shows the new code instead of a blank file then you've successfully `pushed` the changes to GitHub from your computer
+
+# 6. Remote Website
+1. Navigate to `http://<username>.github.io/` (again without the brackets <>) and you should see your site.
+
+# 7. Further steps
+1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/
+2. Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial
+3. Contact @csianglim to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
+
+
+
+
