@@ -49,6 +49,9 @@ Please install the following tools:
 2. Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
+# 8. Tutorial 2
+Once you're comfortable with the basics, move on to tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
+
 
 
 
