@@ -22,7 +22,7 @@ Please install the following tools:
 3. Type in the code below.
 4. Save the file and open index.html in your browser. You should see a webpage with the title `My first site` and `Hello world` as the contents.
 
-```
+```html
 <html>
 <head>
   <title>My first site</title>
