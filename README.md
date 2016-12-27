@@ -46,7 +46,7 @@ Please install the following tools:
 # 7. Further steps
 1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/
 2. Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial
-3. Contact @csianglim to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
+3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
 
 
