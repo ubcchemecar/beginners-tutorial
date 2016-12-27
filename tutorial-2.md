@@ -4,7 +4,7 @@ Javascript is the programming language of webpages that allows users to access, 
 # 1. Acquire the jQuery library
 Add the jQuery library by either method:
 
-- Copy and paste: ```html <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>``` into the ```html <head>``` element 
+- Copy and paste: ```<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>``` into the ```<head>``` element 
 
 - Go to https://jquery.com/download/ and right-click the compressed, production jQuery library, click 'Save link as', and save the folder in your repository folder
 
