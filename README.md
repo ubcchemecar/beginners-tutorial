@@ -44,7 +44,7 @@ Please install the following tools:
 1. Navigate to `http://<username>.github.io/` (again without the brackets <>) and you should see your site.
 
 # 7. Further steps
-1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/
+1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ More specifically, figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
 2. Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
