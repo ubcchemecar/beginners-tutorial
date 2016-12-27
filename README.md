@@ -9,7 +9,7 @@ Please install the following tools:
 
 # 2. Set Up GitHub Repository
 1. Sign up for a free account at www.github.com
-2. Create a new repository (use the '+' plus icon at the top right corner of your screen), name your repository `<username>.github.io` (without the brackets <>). Use the following settings: Public and tick 'Initialize this repository with a README'.
+2. Create a new repository (use the '+' plus icon at the top right corner of your screen), name your repository `<username>.github.io` (without the brackets <>, replace username with your Github username). Use the following settings: Public and tick 'Initialize this repository with a README'.
 3. Navigate to the repository and create a new empty file called `index.html`.
 
 # 3. Clone the repository
