@@ -40,6 +40,9 @@ Please install the following tools:
 4. Navigate to your the GitHub.com repository in your browser and click on the index.html file.
 5. If it shows the new code instead of a blank file then you've successfully `pushed` the changes to GitHub from your computer
 
+![Source: https://www.developereconomics.com/](https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/joke.png)
+*Source: https://www.developereconomics.com/*
+
 # 6. Remote Website
 1. Navigate to `http://<username>.github.io/` (again without the brackets <>) and you should see your site.
 
