@@ -19,8 +19,7 @@ Open the Molson API link in your browser, and you should see something like this
       "pH":7 }
 }
 ```
-
-The data from the Molson API is in JSON (JavaScript Object Notation) format. JSON is essentially text (human-readable), but in a special format such that it can be easily converted into JavaScript objects. 
+The data from the Molson API is the time, temperature and pH in JSON (JavaScript Object Notation) format. JSON is essentially text (human-readable), but in a special format such that it can be easily converted into JavaScript objects. 
 
 ## JavaScript Objects
 Recall your intro to programming lessons from first year engineering. In APSC 160, you can define variables as different data types in C, for example, integers, characters and floats:
@@ -88,35 +87,70 @@ The first few lines of your file should now look something like this:
 # 2. Understand the jQuery $.get Request
 To begin, we will make a [GET request](http://www.w3schools.com/tags/ref_httpmethods.asp) to the Molson API using jQuery. 
 
-The syntax of the .get request is:
+The [jQuery documentation](https://api.jquery.com/jquery.get/) provides an example for using the get() function.
 ```javascript
 $.get( "someURLWithData", function( data ) {
-  $(selector).dataChange;
+  $( selector ).html( data );
+  console.log( data );
 });
 ```
-1. someURLWithData has some data that we make a 'GET request' for.
-2. The response from the GET request is returned in `data`.
-3. The selector is an element such as `<div>` or `<p>`, or it is an id such as `<div id="SomeID">` that we target
-4. dataChange applies the requested data to the element or id.
+1. someURLWithData has some data that we make a 'GET request' for, in our case, this is the Molson API.
+2. The data from the GET request is returned in `data`.
+3. The jQuery `selector` selects elements such as `<div>` or `<p>`. It can also be specific elements if defined using IDs such as `<div id="SomeID">` that we target. 
+4. `$( selector ).html(data)` replaces the HTML code in the element defined by the selector with the value stored in `data`.
 
-# 3. Get data from a webserver
-We will be using the jQuery syntax to get data from http://molson.ubcchemecar.com/api The data in this server is the time, temperature and pH in JSON format.
+In our case, we will define an ID for our element where we want the data to appear in, as follows:
 
-1. Create a paragraph element with the id of "molsonData". 
-2. Create a script with the type "text/javascript".
-3  Inside the script, make the get request from `http://molson.ubcchemecar.com/api`. Follow the syntax in step 2. and replace someURLWithData.
-4. Replace the selector with the chosen id along with a '#' sign in front of it
-5. replace data change to show '''.html(data['timestamp]');
-
-The code should look like this:
+```html
+<p id="molsonData">Grabbing data...</p>
 ```
-$(function() {
+
+Our element selector would replace 'Grabbing data...' with our data from the Molson API.
+
+# 3. Code it all up
+1. Create a paragraph element with an ID of "molsonData", e.g. <p id="molsonData"></p>
+2. Create a script with the type "text/javascript", e.g. <script type="text/javascript"></p>
+3  Inside the script, make the GET request from `http://molson.ubcchemecar.com/api`.
+4. Replace the selector with the chosen id along with a '#' sign in front of it. The '#' sign denotes an #ID for the selector. We can also have '.' for classes. IDs are unique elements in a HTML document, but multiple elements can have the same class. Further reading: http://www.w3schools.com/jquery/jquery_selectors.asp
+5. Display the data in the console.log to check it.
+6. Access the value stored in the timestamp key in `data` using `data.timestamp` or `data['timestamp']` and use our jQuery element selector to replace the HTML in #molsonData.
+
+Your code should look something like this:
+```javascript
     $.get( "http://molson.ubcchemecar.com/api", function( data ) {
       console.log(data)
       $("#molsonData").html( data['timestamp'] );
     });
-});
 ```
-In pseudocode, this reads: Please get data from `http://molson.ubcchemecar.com/api` and then replace the code in side the element with id of "molsonData" with the newly acquired data. Specifically, the timestamp data in this tutorial.
+
+7. We want to wait until the document has fully loaded before we start loading our script. So we enclose the above code in a `$( document ).ready()` block, or in shorthand jQuery notation, `$(function() {}`. Further reading: https://learn.jquery.com/using-jquery-core/document-ready/
+
+The full code should look like this:
+```
+
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<p id="molsonData">Grabbing data...</p>
+<script type="text/javascript">
+  $(function() {
+    $.get( "http://molson.ubcchemecar.com/api", function( data ) {
+      console.log(data)
+      $("#molsonData").html( data['timestamp'] );
+    });
+  });
+
+</script>
+</body>
+</html>
+```
+## Overview
+Essentially, what we did was: 
+
+1. Get data from `http://molson.ubcchemecar.com/api`
+2. Replace the code inside the element with id of "molsonData" with the newly acquired data. 
+3. Specifically, the value in the `timestamp` key for this tutorial.
 
 
