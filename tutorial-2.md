@@ -108,8 +108,8 @@ In our case, we will define an ID for our element where we want the data to appe
 Our element selector would replace 'Grabbing data...' with our data from the Molson API.
 
 # 3. Code it all up
-1. Create a paragraph element with an ID of "molsonData", e.g. <p id="molsonData"></p>
-2. Create a script with the type "text/javascript", e.g. <script type="text/javascript"></p>
+1. Create a paragraph element with an ID of "molsonData", e.g. `<p id="molsonData"></p>`
+2. Create a script with the type "text/javascript", e.g. `<script type="text/javascript"></p>`
 3  Inside the script, make the GET request from `http://molson.ubcchemecar.com/api`.
 4. Replace the selector with the chosen id along with a '#' sign in front of it. The '#' sign denotes an #ID for the selector. We can also have '.' for classes. IDs are unique elements in a HTML document, but multiple elements can have the same class. Further reading: http://www.w3schools.com/jquery/jquery_selectors.asp
 5. Display the data in the console.log to check it.
