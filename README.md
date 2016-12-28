@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Tutorial 1
 Please follow this guide if you're interested in working with the software/electrical team. We are assuming that you'll be using a Windows machine but the steps are very similar for Macs too.
 
 # 1. Download Tools
