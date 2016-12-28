@@ -123,11 +123,10 @@ Your code should look something like this:
     });
 ```
 
-7. We want to wait until the document has fully loaded before we start loading our script. So we enclose the above code in a `$( document ).ready()` block, or in shorthand jQuery notation, `$(function() {}`. Further reading: https://learn.jquery.com/using-jquery-core/document-ready/
+We want to wait until the document has fully loaded before we start loading our script. So we enclose the above code in a `$( document ).ready()` block, or in shorthand jQuery notation, `$(function() {}`. Further reading: https://learn.jquery.com/using-jquery-core/document-ready/
 
 The full code should look like this:
-```
-
+```html
 <html>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
