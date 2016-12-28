@@ -48,7 +48,7 @@ Please install the following tools:
 
 # 7. Chem-E-Car Subdomain
 1. Create a new file called `CNAME` in your repository.
-2. In the CNAME file, type in `http://<username>.ubcchemecar.com/`
+2. In the CNAME file, type in `<username>.ubcchemecar.com`
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
 # 8. Further Reading
