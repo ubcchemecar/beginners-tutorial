@@ -73,7 +73,7 @@ Here's a summary of what you've done:
 1. Forked this (upstream) repository to your account: https://github.com/ubcchemecar/beginners-tutorial/
 2. Made sure that your fork is sync with the upstream repository
 3. Modified some text in the `tutorial-github.md` file in your fork
-4. Created a pull request to propose changes
+4. Created a pull request to propose changes to the upstream repository
 
 ![https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png](https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png)
 
