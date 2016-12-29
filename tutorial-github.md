@@ -23,3 +23,14 @@ Your copy of the repository will not be automatically updated whenever the origi
 You will know if your fork needs to be synced if you see a similar message in your repository: 
 
 > This branch is 4 commits behind ubcchemecar:master.
+
+To sync your fork, follow these [steps outlined in this website](http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/), as follows:
+
+1. Open the main page of your fork in GitHub
+2. Click the 'Pull Request' icon
+3. Click the 'Switching the Base' link
+4. Click on the green 'Create a Pull Request' button
+5. Type a title of your choice and the green button again
+6. Scroll down and click the green 'Merge Pull Request' button and 'Confirm Merge'
+
+
