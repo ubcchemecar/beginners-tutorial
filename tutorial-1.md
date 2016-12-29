@@ -54,7 +54,12 @@ Please install the following tools:
 **Note**: After creating the CNAME file, you'll not be able to access your site at `http://<username>.github.io/` until we have linked your site to the ChemECar sub-domain. DNS propagation can take up to 24 hours or more (but it's usually an hour or less), while waiting for your site to load, read up on [DNS Propagation](https://support.managed.com/kb/a604/dns-propagation-and-why-it-takes-so-long-explained.aspx).
 
 # 8. Beyond Hello World
-Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ More specifically, figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
+Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ 
+
+More specifically, 
+
+1. Figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
+2. For each change that you make, practice making new commits and pushing them to your GitHub repository.
 
 Here are some good sources to get you started:
   * [Find out what is HTML](http://www.yourhtmlsource.com/starthere/whatishtml.html)
