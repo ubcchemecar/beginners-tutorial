@@ -77,7 +77,7 @@ Here are some good sources to get you started:
 - Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
 
 # 10. Next Tutorial
-Once you're comfortable with the basics, work through our (short) GitHub tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github
+Once you're comfortable with the basics, work through our (short) GitHub tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github.md
 
 Then begin tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
 
