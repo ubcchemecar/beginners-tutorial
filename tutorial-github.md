@@ -63,11 +63,13 @@ Read this guide for further information on Markdown: https://guides.github.com/f
 1. In the main page of your fork, click on the pull request button
 2. Click the green 'Create Pull Request' button
 3. Type in a short and descriptive summary of what you've changed in the title and click the green 'Create Pull Request' button again.
-4. Once we have merged your propose changes, you will see the list of Contributors updated in this repository.
+4. If everything looks okay, we will merge your proposed changes on our side and you will see the list of Contributors updated in this repository.
 
 **Final Note:** Always sync your fork before proposing any changes to our projects to prevent or minimize conflicts. 
 
-# Further Reading
+# Further Steps and Reading
+Now that you know how to fork projects and create pull requests, if you see any mistakes/typos or unclear sections in these tutorials, feel free to fix them and then create a pull request! 
+
 - Read the Learn Enough Git Tutorial: https://www.learnenough.com/git-tutorial
 
 # Contributors
