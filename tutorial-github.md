@@ -45,7 +45,7 @@ Your fork will now be synced with the upstream repository.
 5. When you're done, click 'Preview Changes' to make sure that the formatting is correct.
 6. Type in a description and click the green 'Commit Changes' button.
 
-Side note: Markdown is a way to style text in GitHub files. The `.md` extension in these tutorials stand for Markdown. Here are common syntax:
+Side note: Markdown is a way to style text in GitHub files. The `.md` extension in these tutorials stand for Markdown. Here are some examples of common syntax:
 
 ```
 # A single hashtag is an <h1> tag
