@@ -68,7 +68,7 @@ Read this guide for further information on Markdown: https://guides.github.com/f
 **Final Note:** Always sync your fork before proposing any changes to our projects to prevent or minimize conflicts. 
 
 # Further Steps and Reading
-![https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/fork.png](https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/fork.png)
+![https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png](https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png)
 
 Now that you know how to fork projects and create pull requests, if you see any mistakes/typos or unclear sections in these tutorials, feel free to fix them and then create a pull request! 
 
