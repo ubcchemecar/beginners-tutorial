@@ -51,6 +51,8 @@ Please install the following tools:
 2. In the CNAME file, type in `<username>.ubcchemecar.com`
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
+**Note**: After creating the CNAME file, you'll not be able to access your site at `http://<username>.github.io/` until we have linked your site to the ChemECar sub-domain.
+
 # 8. Further Reading
 1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ More specifically, figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
   * Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
