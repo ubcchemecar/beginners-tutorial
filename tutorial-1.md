@@ -60,8 +60,10 @@ More specifically,
 
 1. Figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
 2. For each change that you make, practice making new commits and pushing them to your GitHub repository.
+3. Google is your friend, but if you can't find something or if you're stuck, message us in the FB group chat.
 
 Here are some good sources to get you started:
+  * If you're using Chrome, press Ctrl+U to view the source of a web page. For example, navigate to http://ngaito.ubcchemecar.com/ then click Ctrl+U. For other browsers, Google for the shortcut key.
   * [Find out what is HTML](http://www.yourhtmlsource.com/starthere/whatishtml.html)
   * [Find out what is CSS](http://html.net/tutorials/css/lesson1.php)
   * Handy tool: Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
