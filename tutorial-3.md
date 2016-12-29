@@ -8,3 +8,8 @@ We will be using [Node.js](https://www.tutorialspoint.com/nodejs/nodejs_introduc
 1. https://signup.heroku.com/
 2. Login to your Heroku account and go to the [Dashboard](https://dashboard.heroku.com/)
 3. Click New and create a new App, you can name it anything you want.
+
+# 2: Install Node.js on your computer
+1. Download link available here: https://nodejs.org/en/download/
+2. Follow the instructions to set up a simple Hello World program: http://blog.gvm-it.eu/post/20404719601/getting-started-with-nodejs-on-windows
+3. Once you've successfully installed Node.js and ran your Hello World program, move on to the next step
