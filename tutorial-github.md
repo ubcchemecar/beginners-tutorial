@@ -6,7 +6,7 @@ Forking means making a copy of a GitHub repository into your own account. Here's
 
 > A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
-In this step, you will fork the `ubcchemecar/beginners-tutorial` repository.
+To fork the `ubcchemecar/beginners-tutorial` repository, follow these steps:
 
 1. Go to the main page of the `beginners-tutorial` repository: https://github.com/ubcchemecar/beginners-tutorial
 2. Click the Fork icon on the top right corner of the page.
@@ -16,3 +16,10 @@ The top left corner of your screen should say
 
 * username/beginners-tutorial
 * forked from ubcchemecar/beginners-tutorial
+
+# 2. Keeping your fork in sync
+Your copy of the repository will not be automatically updated whenever the original repository (more commonly called the `upstream` repository) changes. If there are any updates to the upstream repository, your copy will not receive these changes until you sync your fork.
+
+You will know if your fork needs to be synced if you see a similar message in your repository: 
+
+> This branch is 4 commits behind ubcchemecar:master.
