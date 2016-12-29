@@ -69,6 +69,7 @@ Read this guide for further information on Markdown: https://guides.github.com/f
 
 # Further Steps and Reading
 Here's a summary of what you've done:
+
 1. Forked this (upstream) repository to your account: https://github.com/ubcchemecar/beginners-tutorial/
 2. Made sure that your fork is sync with the upstream repository
 3. Modified some text in the `tutorial-github.md` file in your fork
