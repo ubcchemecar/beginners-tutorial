@@ -23,3 +23,37 @@ Your copy of the repository will not be automatically updated whenever the origi
 You will know if your fork needs to be synced if you see a similar message in your repository: 
 
 > This branch is 4 commits behind ubcchemecar:master.
+
+If you do not see that message (which is very likely if you just forked the repository, as there are no changes yet), skip ahead to Step 3.
+
+To sync your fork, follow these [steps outlined in this website](http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/), as follows:
+
+1. Open the main page of your fork in GitHub
+2. Click the 'Pull Request' icon
+3. Click the 'Switching the Base' link
+4. Click on the green 'Create a Pull Request' button
+5. Type a title of your choice and the green button again
+6. Scroll down and click the green 'Merge Pull Request' button and 'Confirm Merge'
+
+Your fork will now be synced with the upstream repository.
+
+# 3. Make Modifications in Your Repository
+1. Open the `tutorial-github.md` file in your fork. If you scroll down to the end of this document, you will see a section called 'Contributors'. Your task is to edit the file and add your name to the list of contributors.
+2. Click on the pencil icon on the top right corner of the screen.
+3. You will now be allowed to edit the file. The file is in a format called Markdown, read the side note below before you continue.
+4. Scroll down and add your name and today's date to the list, using the same format as the other names.
+5. When you're done, click 'Preview Changes' to make sure that the formatting is correct.
+6. Type in a description and click the green 'Commit Changes' button.
+
+Side note: Markdown is a way to style text in GitHub files. The `.md` extension in these tutorials stand for Markdown. Here are some examples of common syntax:
+
+```
+# A single hashtag is an <h1> tag
+**Double stars means bolded text**
+* Single star with a space means a bullet point
+```
+
+Read this guide for further information on Markdown: https://guides.github.com/features/mastering-markdown/
+
+# Contributors
+* Siang - Dec 28th 2016
