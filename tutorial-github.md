@@ -13,5 +13,6 @@ In this step, you will fork the `ubcchemecar/beginners-tutorial` repository.
 3. Once the screen finishes loading, you will be redirected to a copy of the repository in your own GitHub account.
 
 The top left corner of your screen should say
-> username/beginners-tutorial
-> forked from ubcchemecar/beginners-tutorial
+
+username/beginners-tutorial
+forked from ubcchemecar/beginners-tutorial
