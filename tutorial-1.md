@@ -53,12 +53,19 @@ Please install the following tools:
 
 **Note**: After creating the CNAME file, you'll not be able to access your site at `http://<username>.github.io/` until we have linked your site to the ChemECar sub-domain. DNS propagation can take up to 24 hours or more (but it's usually an hour or less), while waiting for your site to load, read up on [DNS Propagation](https://support.managed.com/kb/a604/dns-propagation-and-why-it-takes-so-long-explained.aspx).
 
-# 8. Further Reading
-1. Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ More specifically, figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
-  * Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
-2. Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
+# 8. Beyond Basic HTML
+Read up on HTML and make a better website, something similar to http://ngaito.ubcchemecar.com/ More specifically, figure out how to change text size, bold/underline text, make horizontal lines, align text left/right/center, add images and create links.
 
-# 9. Tutorial 2
+Here are some good sources to get you started:
+  * [Find out what is HTML](http://www.yourhtmlsource.com/starthere/whatishtml.html)
+  * [Find out what is CSS](http://html.net/tutorials/css/lesson1.php)
+  * Handy tool: Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
+  
+# 9. Further Reading
+- Watch this 15-minute video on the Bootstrap Framework: https://www.youtube.com/watch?v=no-Ntkc836w
+- Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
+
+# 10. Tutorial 2
 Once you're comfortable with the basics, move on to tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
 
 
