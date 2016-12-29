@@ -45,7 +45,7 @@ Your fork will now be synced with the upstream repository.
 1. Open the `tutorial-github.md` file in your fork. If you scroll down to the end of this document, you will see a section called 'Contributors'. Your task is to edit the file and add your name to the list of contributors.
 2. Click on the pencil icon on the top right corner of the screen.
 3. You will now be allowed to edit the file. The file is in a format called Markdown, read the side note below before you continue.
-4. Scroll down and add your name and today's date to the list, using the same format as the other names.
+4. Scroll down and add your **name**, a **note (if you want to)** and **today's date** to the list, using the same format as the other names.
 5. When you're done, click 'Preview Changes' to make sure that the formatting is correct.
 6. Type in a description and click the green 'Commit Changes' button.
 
@@ -62,7 +62,7 @@ Read this guide for further information on Markdown: https://guides.github.com/f
 # 4. Create a Pull Request
 1. In the main page of your fork, click on the pull request button
 2. Click the green 'Create Pull Request' button
-3. Type in a title and click the green 'Create Pull Request' button again.
+3. Type in a short and descriptive summary of what you've changed in the title and click the green 'Create Pull Request' button again.
 4. Once we have merged your propose changes, you will see the list of Contributors updated in this repository.
 
 **Final Note:** Always sync your fork before proposing any changes to our projects to prevent or minimize conflicts. 
