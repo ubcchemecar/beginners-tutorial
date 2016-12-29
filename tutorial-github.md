@@ -35,6 +35,8 @@ To sync your fork, follow these [steps outlined in this website](http://www.hpiq
 5. Type a title of your choice and the green button again
 6. Scroll down and click the green 'Merge Pull Request' button and 'Confirm Merge'
 
+**Note: ** If you do not see a 'Switching the Base' link, select your repository as the base fork (base fork means the repository you'd like to merge changes into) and ubcchemecar/beginners-tutorial as the main for (main fork means the repository you want to compare with, in this case, the upstream repository).
+
 Your fork will now be synced with the upstream repository.
 
 # 3. Make Modifications in Your Repository
@@ -54,6 +56,11 @@ Side note: Markdown is a way to style text in GitHub files. The `.md` extension 
 ```
 
 Read this guide for further information on Markdown: https://guides.github.com/features/mastering-markdown/
+
+# 4. Create a Pull Request
+1. In the main page of your fork, click on the pull request button
+2. Click the green 'Create Pull Request' button
+3. Type in a title and click the green 'Create Pull Request' button again.
 
 # Contributors
 * Siang - Dec 28th 2016
