@@ -68,6 +68,12 @@ Read this guide for further information on Markdown: https://guides.github.com/f
 **Final Note:** Always sync your fork before proposing any changes to our projects to prevent or minimize conflicts. 
 
 # Further Steps and Reading
+Here's a summary of what you've done:
+1. Forked this (upstream) repository to your account: https://github.com/ubcchemecar/beginners-tutorial/
+2. Made sure that your fork is sync with the upstream repository
+3. Modified some text in the `tutorial-github.md` file in your fork
+4. Created a pull request to propose changes
+
 ![https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png](https://github.com/ubcchemecar/beginners-tutorial/blob/master/res/forked.png)
 
 Now that you know how to fork projects and create pull requests, if you see any mistakes/typos or unclear sections in these tutorials, feel free to fix them and then create a pull request! 
