@@ -72,6 +72,7 @@ Here are some good sources to get you started:
   
 # 9. Further Reading
 - Watch this 15-minute video on the Bootstrap Framework: https://www.youtube.com/watch?v=no-Ntkc836w
+- If you want to try playing with Bootstrap for your site, read this: https://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/
 - Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
 
 # 10. Tutorial 2
