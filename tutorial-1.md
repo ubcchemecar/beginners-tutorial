@@ -76,8 +76,10 @@ Here are some good sources to get you started:
 - If you prefer, you can use a Bootstrap theme: https://startbootstrap.com/ (Before doing this, we recommend playing around with HTML and CSS first until you're comfortable enough with the basics).
 - Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
 
-# 10. Tutorial 2
-Once you're comfortable with the basics, move on to tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
+# 10. Next Tutorial
+Once you're comfortable with the basics, work through our (short) GitHub tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github
+
+Then begin tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
 
 
 
