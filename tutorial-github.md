@@ -14,5 +14,5 @@ In this step, you will fork the `ubcchemecar/beginners-tutorial` repository.
 
 The top left corner of your screen should say
 
-username/beginners-tutorial
-forked from ubcchemecar/beginners-tutorial
+* username/beginners-tutorial
+* forked from ubcchemecar/beginners-tutorial
