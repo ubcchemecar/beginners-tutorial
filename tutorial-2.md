@@ -152,4 +152,7 @@ Essentially, what we did was:
 2. Replace the code inside the element with id of "molsonData" with the newly acquired data. 
 3. Specifically, the value in the `timestamp` key for this tutorial.
 
+# Tutorial 3
+Once you feel comfortable with the material here, move on to Tutorial 3 with the link below. As always, ask questions if you're stuck!
 
+Tutorial 3 - https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-3.md
