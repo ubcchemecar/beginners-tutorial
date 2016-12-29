@@ -1,5 +1,7 @@
 # Welcome to the GitHub tutorial
-We will go over some basic forking and pull requests in this short tutorial.
+We will go over some basic forking and pull requests in this short tutorial. Forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+
+In this tutorial, you will fork this repository, propose some changes, and then create a `pull request` to merge the changes back into this document.
 
 # 1. Forking
 Forking means making a copy of a GitHub repository into your own account. Here's a link to the GitHub documentation on forking: https://help.github.com/articles/fork-a-repo/ for further information.
@@ -35,6 +37,8 @@ To sync your fork, follow these [steps outlined in this website](http://www.hpiq
 5. Type a title of your choice and the green button again
 6. Scroll down and click the green 'Merge Pull Request' button and 'Confirm Merge'
 
+**Note: ** If you do not see a 'Switching the Base' link, select your repository as the base fork (base fork means the repository you'd like to merge changes into) and ubcchemecar/beginners-tutorial as the main for (main fork means the repository you want to compare with, in this case, the upstream repository).
+
 Your fork will now be synced with the upstream repository.
 
 # 3. Make Modifications in Your Repository
@@ -54,6 +58,17 @@ Side note: Markdown is a way to style text in GitHub files. The `.md` extension 
 ```
 
 Read this guide for further information on Markdown: https://guides.github.com/features/mastering-markdown/
+
+# 4. Create a Pull Request
+1. In the main page of your fork, click on the pull request button
+2. Click the green 'Create Pull Request' button
+3. Type in a title and click the green 'Create Pull Request' button again.
+4. Once we have merged your propose changes, you will see the list of Contributors updated in this repository.
+
+**Final Note:** Always sync your fork before proposing any changes to our projects to prevent or minimize conflicts. 
+
+# Further Reading
+- Read the Learn Enough Git Tutorial: https://www.learnenough.com/git-tutorial
 
 # Contributors
 * Siang - Dec 28th 2016
