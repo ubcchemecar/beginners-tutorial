@@ -11,7 +11,7 @@ To declare a variable in JavaScript. use `var`. You don't need to declare the da
 var foo = 'hello';      // Declares a string
 var num = 1;            // Declares a number
 var switch = false;     // Declares a boolean
-var array = []          // Declares an empty array
+var array = [];          // Declares an empty array
 var object = {};        // Declares an empty object
 ```
 
