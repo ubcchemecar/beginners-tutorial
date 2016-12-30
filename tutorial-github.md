@@ -83,10 +83,10 @@ Now that you know how to fork projects and create pull requests, if you see any 
 
 # Contributors
 
-This is a table, don't mess up the table. [Read this section](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) and preview your changes before committing.
-
-| Name          | Website                                               | Notes        |
-| ------------- |:-----------------------------------------------------:| ------------:|
-| Siang         | [Fire](http://siang.ubcchemecar.com/)                 | LOL          |
-| Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     |
+This is a table with 4 columns, don't mess up the table. [Read this section](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) and preview your changes before committing.
+ 
+| Name          | Website                                               | Notes        | Date                 |
+| ------------- |:-----------------------------------------------------:| ------------:| --------------------:|
+| Siang         | [Fire](http://siang.ubcchemecar.com/)                 | LOL          | 28th December 2016   |
+| Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     | 29th December 2016   |
 
