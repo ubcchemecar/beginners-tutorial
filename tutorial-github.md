@@ -87,6 +87,6 @@ This is a table, don't mess up the table. [Read this section](https://github.com
 
 | Name          | Website                                               | Notes        |
 | ------------- |:-----------------------------------------------------:| ------------:|
-| Siang         | [Link to website](http://siang.ubcchemecar.com/)      | Fire         |
+| Siang         | [Fire](http://siang.ubcchemecar.com/)                 | LOL          |
 | Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     |
 
