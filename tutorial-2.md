@@ -1,5 +1,11 @@
 # Welcome to Tutorial 2 - JavaScript (JS)
-In this tutorial, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. `jQuery` is a JavaScript library that helps us write JavaScript code easier and faster using a simpler syntax. [Read this article](http://www.htmlgoodies.com/tutorials/forms/article.php/3895776/HTML-Forms-jQuery-Basics---Getting-Started.htm) for further information on jQuery. 
+In this tutorial, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. `jQuery` is a JavaScript library that helps us write JavaScript code easier and faster using a simpler syntax. 
+
+Before you begin, 
+
+- [Read this article](http://www.htmlgoodies.com/tutorials/forms/article.php/3895776/HTML-Forms-jQuery-Basics---Getting-Started.htm) for further information on jQuery. 
+
+- [And also this article on jQuery](https://learn.jquery.com/about-jquery/how-jquery-works/)
 
 ## HTML vs Javascript
 HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks. Further info: http://javascript.about.com/od/reference/p/javascript.htm 
