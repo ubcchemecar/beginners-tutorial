@@ -79,7 +79,7 @@ Here's a summary of what you've done:
 
 Now that you know how to fork projects and create pull requests, if you see any mistakes/typos or unclear sections in these tutorials, feel free to fix them and then create a pull request! 
 
-- Read the Learn Enough Git Tutorial: https://www.learnenough.com/git-tutorial
+- The Learn Enough to Be Dangerous site provides excellent tutorials on many topics. Read the Learn Enough Git Tutorial: https://www.learnenough.com/git-tutorial and familiarize yourself with forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
 
 # Contributors
 
@@ -90,3 +90,5 @@ This is a table with 4 columns, don't mess up the table. [Read this section](htt
 | Siang         | [Fire](http://siang.ubcchemecar.com/)                 | LOL          | 28th December 2016   |
 | Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     | 29th December 2016   |
 
+# Next Tutorial
+When you're done with the Learn Enough Git tutorial, move on to the Bootstrap tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-bootstrap.md
