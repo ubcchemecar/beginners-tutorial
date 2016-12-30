@@ -46,7 +46,7 @@ var foo = function() { /* do something */ }
 You can also define parameters in your function:
 
 ```javascript
-functionName(parameter1, parameter2, parameter3) {
+function functionName(parameter1, parameter2, parameter3) {
     // code to be executed
 }
 ```
@@ -54,7 +54,7 @@ functionName(parameter1, parameter2, parameter3) {
 Once you've defined your function, you can call it:
 
 ```javascript
-addNumbers(x, y){
+function addNumbers(x, y){
   return (x+y);
 }
 
