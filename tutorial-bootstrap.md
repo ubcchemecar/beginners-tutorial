@@ -9,8 +9,7 @@ Read this article for more information: http://smallbiztrends.com/2013/05/what-i
 ### For Example...
 The site that you've made using raw HTML in Tutorial 1 would look the same whether it's viewed on a mobile screen or on a desktop computer. Depending on your layout, it might be difficult to read some of the contents or text for your website unless you zoom in on your phone. 
 
-> Day by day, the number of devices, platforms, and browsers that need to work with your site grows. Responsive web design represents a fundamental shift in how we’ll build websites for the decade to come. 
-- Jeffrey Veen
+> Day by day, the number of devices, platforms, and browsers that need to work with your site grows. Responsive web design represents a fundamental shift in how we’ll build websites for the decade to come. - Jeffrey Veen
 
 Almost all modern websites are responsive sites, and you've probably noticed this too. For example, the layout for the [Vancouver Sun](http://vancouversun.com/) and the [UBC website](www.ubc.ca) looks different depending on whether you're looking at it on a mobile screen or on a full-sized monitor. Here are some more examples of responsive design: http://johnpolacek.github.io/scrolldeck.js/decks/responsive/
 
