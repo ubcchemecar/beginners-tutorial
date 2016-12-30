@@ -27,6 +27,8 @@ Open the Molson API link in your browser, and you should see something like this
 ```
 The data from the Molson API is the time, temperature and pH in JSON (JavaScript Object Notation) format. JSON is essentially text (human-readable), but in a special format such that it can be easily converted into JavaScript objects. 
 
+- [Read this article](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) on JSON to find out why it matters
+
 ## JavaScript Objects
 Recall your intro to programming lessons from first year engineering. In APSC 160, you can define variables as different data types in C, for example, integers, characters and floats:
 
