@@ -1,9 +1,9 @@
 # Welcome to Tutorial 2 - JavaScript (JS)
-So far, you've worked on raw, static HTML in Tutorial 1 but in Tutorial 1.3, you may have noticed some JavaScript `.js` files in the Bootstrap framework. If you've used some dynamic Bootstrap components like dropdown menus in Tutorial 1.3, you've used JavaScript. Essentially, HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks.
+So far, you've worked on raw, static HTML in Tutorial 1 but in Tutorial 1.3, you may have noticed some JavaScript `.js` files in the Bootstrap framework. If you've used some dynamic Bootstrap components like dropdown menus in Tutorial 1.3, you've (perhaps unknowingly) used JavaScript.
+
+Essentially, HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks.
 
 > JavaScript: Love it or hate it, it’s a popular programming language for many, mainly because it’s so incredibly easy to learn. And if you’re a web developer, it’s almost a requirement of the job to have a working knowledge of JavaScript.
-
-> Speaking of the web, JavaScript’s reputation for providing users with beautiful, interactive websites isn’t where its usefulness ends. Nowadays, it’s also used to create mobile applications, cross-platform desktop software, and thanks to Node.js, it’s even capable of creating and running servers and databases!
 
 Read this article to find out why JavaScript is important: https://blog.jscrambler.com/javascript-the-perfect-language-for-the-internet-of-things-iot/
 
