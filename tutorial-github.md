@@ -45,7 +45,7 @@ Your fork will now be synced with the upstream repository.
 1. Open the `tutorial-github.md` file in your fork. If you scroll down to the end of this document, you will see a section called 'Contributors'. Your task is to edit the file and add your name to the list of contributors.
 2. Click on the pencil icon on the top right corner of the screen.
 3. You will now be allowed to edit the file. The file is in a format called Markdown, read the side note below before you continue.
-4. Scroll down and add your **name**, a **note (if you want to)** and **today's date** to the list, using the same format as the other names.
+4. Scroll down and add your **name**, **your website**, a **note (if you want to)** and **today's date** to the list, using the same format as the other names.
 5. When you're done, click 'Preview Changes' to make sure that the formatting is correct.
 6. Type in a description and click the green 'Commit Changes' button.
 
@@ -82,5 +82,11 @@ Now that you know how to fork projects and create pull requests, if you see any 
 - Read the Learn Enough Git Tutorial: https://www.learnenough.com/git-tutorial
 
 # Contributors
-* Siang - Dec 28th 2016 - Note: fire
-* Daniel - Dec 29th 2016 - Note: not fire
+
+This is a table, don't mess up the table. [Read this section](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) and preview your changes before committing.
+
+| Name          | Website                                               | Notes        |
+| ------------- |:-----------------------------------------------------:| ------------:|
+| Siang         | [Link to website](http://siang.ubcchemecar.com/)      | Fire         |
+| Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     |
+
