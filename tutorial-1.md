@@ -47,6 +47,8 @@ Please install the following tools:
 1. Navigate to `http://<username>.github.io/` (again without the brackets <>) and you should see your site.
 
 # 7. Chem-E-Car Subdomain
+We will link your `http://<username>.github.io/` to a Chem-E-Car subdomain at `<USERNAME>.ubcchemecar.com`. Your `<USERNAME>` for the Chem-E-Car sub-domain can be the same as your GitHub username, or something different if you want to change it.
+
 1. Create a new file called `CNAME` in your repository.
 2. In the CNAME file, type in `<username>.ubcchemecar.com`
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
