@@ -37,9 +37,23 @@ Source: https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/
 - Bootswatch https://bootswatch.com/default/
 - Black Tie http://blacktie.co/
 
+### Resources
+1. Familiarize yourself with the Bootstrap components you can use: http://getbootstrap.com/components/
+2. You can use Font Awesome for some nice icons: http://fontawesome.io/
+3. Figure out what is a `favicon` and how to add it to your site: http://www.webdesignerdepot.com/2012/11/whats-the-point-of-favicons/
+4. 
+
 # Further Reading
-- If you prefer, you can also use a Bootstrap theme: https://startbootstrap.com/ and many other ones available online, Google Bootstrap themes or Bootstrap templates.
-- If you haven't yet, read the [Learn Enough Git tutorial](https://www.learnenough.com/git-tutorial). By now you should be comfortable with concepts such as forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
+Bootstrap is very powerful and useful for a lot of cases, but might not always be the best solution for every website. Bootstrap files are relatively large, and it might be overkill to use it for simple sites, depending on what you're trying to achieve. 
+
+There is also a risk that you'll end up recycling code in Bootstrap themes instead of spending time understanding what it does, like you would do with raw HTML.
+
+> There is a risk that by using Bootstrap, you will simply recycle existing code without understanding it. However, if you spend time understanding it and tweaking it, you can use it to accelerate your learning instead.
+
+http://blog.careerfoundry.com/web-development/what-is-bootstrap-a-beginners-guide
+
+### Important
+If you haven't yet, make sure that you read the [Learn Enough Git tutorial](https://www.learnenough.com/git-tutorial). By now you should be comfortable with concepts such as forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
 
 # Next Tutorial
 Once you're done with the Bootstrap page, try the Javascript tutorial (Tutorial 2): https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
