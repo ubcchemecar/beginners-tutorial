@@ -1,7 +1,7 @@
 # Welcome to Tutorial 3: More JavaScript
 In Tutorial 2, you used JavaScript to grab, store, manipulate and display data. In this tutorial we will cover more of the basics of JavaScript and compare some of the ideas, syntax and patterns you've learned in APSC 160.
 
-This tutorial is a simplified version of this article, please read it for more information: https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html#arrays
+This tutorial is a simplified version of this article, please read it for more information: [JavaScript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 
 # 1. Variables
 
