@@ -1,17 +1,22 @@
 # Welcome to Tutorial 2 - JavaScript (JS)
-In this tutorial, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. `jQuery` is a JavaScript library that helps us write JavaScript code easier and faster using a simpler syntax. 
+So far, you've worked on raw, static HTML in Tutorial 1 but in Tutorial 1.3, you may have noticed some JavaScript `.js` files in the Bootstrap framework. If you've used some dynamic Bootstrap components like dropdown menus in Tutorial 1.3, you've used JavaScript. Essentially, HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks.
+
+> JavaScript: Love it or hate it, it’s a popular programming language for many, mainly because it’s so incredibly easy to learn. And if you’re a web developer, it’s almost a requirement of the job to have a working knowledge of JavaScript.
+
+> Speaking of the web, JavaScript’s reputation for providing users with beautiful, interactive websites isn’t where its usefulness ends. Nowadays, it’s also used to create mobile applications, cross-platform desktop software, and thanks to Node.js, it’s even capable of creating and running servers and databases!
+
+Read this article to find out why JavaScript is important: https://blog.jscrambler.com/javascript-the-perfect-language-for-the-internet-of-things-iot/
+
+### Intro to Javascript
+In Tutorial 1, we used HTML to design a static website. In this tutorial, we will learn how to make our website more interactive by using JavaScript to retrieve, manipulate and display data.
+
+Specifically, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. `jQuery` is a JavaScript library that helps us write JavaScript code easier and faster using a simpler syntax. 
 
 Before you begin, 
 
 - [Read this article](http://www.htmlgoodies.com/tutorials/forms/article.php/3895776/HTML-Forms-jQuery-Basics---Getting-Started.htm) for further information on jQuery. 
 
 - [And also this article on jQuery](https://learn.jquery.com/about-jquery/how-jquery-works/)
-
-## HTML vs Javascript
-HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks. Further info: http://javascript.about.com/od/reference/p/javascript.htm 
-
-In Tutorial 1, we used HTML to design a static website, in this tutorial, we will learn how to make our website more interactive by using JavaScript to retrieve, manipulate and display data. 
-
 
 # 0. Inspect the Data
 Our goal is to grab data from our Molson API: http://molson.ubcchemecar.com/api and display it on our website. Before you continue, please read this short 3-minute article and understand the concept of an API: http://sproutsocial.com/insights/what-is-an-api/
