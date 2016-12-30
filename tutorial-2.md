@@ -81,7 +81,8 @@ Further reading:
 # 1. Load the jQuery Library
 To begin, we will need to embed the jQuery library in our HTML file. We will grab the jQuery library from Google's CDN instead of loading the script locally. [Read this short article](http://robertgreiner.com/2011/05/using-a-content-delivery-network-to-host-jquery/) for further information on CDNs (Content Delivery Network) and its advantages.
 
-1. Copy and paste this inside the `<head>` element of your index.html file. 
+1. Create a new html file with a similar structure as Tutorial 1, with `<html>`, `<head>` and `<body>` tags. Call it anything you want (i.e. api.html).
+2. Copy and paste this inside the `<head>` element of your new .html file. 
 ```javascript
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 ```
