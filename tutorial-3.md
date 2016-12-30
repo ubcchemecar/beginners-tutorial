@@ -35,7 +35,31 @@ var today = weekDays[0] // stores 'Mon' in today
 ### Array Manipulation
 There are several array methods available for manipulating arrays, `pop()`, `push()`, `shift()` and `splice()`. Read this article to find out more: http://www.w3schools.com/js/js_array_methods.asp
 
+# 3. Functions
+Functions can be declared in different ways. The following are equivalent ways of declaring a function called `foo`:
 
+```javascript
+function foo() { /* do something */ }
+var foo = function() { /* do something */ }
+```
+
+You can also define parameters in your function:
+
+```javascript
+functionName(parameter1, parameter2, parameter3) {
+    // code to be executed
+}
+```
+
+Once you've defined your function, you can call it:
+
+```javascript
+addNumbers(x, y){
+  return (x+y);
+}
+
+var number = addNumbers(1,2) // returns 3
+```
 
 # Tutorial 3 - Project
 1. Follow our Orgchart tutorial in the Chem-E-Car blog and create a mock orgchart in your website as a separate page (name it orgchart.html or something similar): http://www.ubcchemecar.com/blog/2016/12/24/orgcharts/
