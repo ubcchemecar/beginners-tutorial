@@ -37,11 +37,11 @@ Source: https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/
 - Bootswatch https://bootswatch.com/default/
 - Black Tie http://blacktie.co/
 
-### Resources
+### Resources and Tips
 1. Familiarize yourself with the Bootstrap components you can use: http://getbootstrap.com/components/
 2. You can use Font Awesome for some nice icons: http://fontawesome.io/
 3. Figure out what is a `favicon` and how to add it to your site: http://www.webdesignerdepot.com/2012/11/whats-the-point-of-favicons/
-4. 
+4. More design tips: http://news.bootswatch.com/post/81584163618/5-simple-design-tips-to-improve-your-bootstrap
 
 # Further Reading
 Bootstrap is very powerful and useful for a lot of cases, but might not always be the best solution for every website. Bootstrap files are relatively large, and it might be overkill to use it for simple sites, depending on what you're trying to achieve. 
