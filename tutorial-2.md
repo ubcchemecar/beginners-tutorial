@@ -1,5 +1,5 @@
 # Welcome to Tutorial 2 - JavaScript (JS)
-So far, you've worked on raw, static HTML in Tutorial 1 but in Tutorial 1.3, you may have noticed some JavaScript `.js` files in the Bootstrap framework. If you've used some dynamic Bootstrap components like dropdown menus in Tutorial 1.3, you've (perhaps unknowingly) used JavaScript.
+So far, you've worked on raw, static HTML in Tutorial 1. In Tutorial 1.3, you may have noticed some JavaScript `.js` files in the Bootstrap framework. If you've used some dynamic Bootstrap components like dropdown menus in Tutorial 1.3, you've (perhaps unknowingly) used JavaScript.
 
 Essentially, HTML is a markup language designed for defining static web page content. JavaScript is a programming language designed for performing dynamic tasks.
 
