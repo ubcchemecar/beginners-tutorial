@@ -86,9 +86,6 @@ Source: https://thenewcode.com/30/HTML-naming-conventions-and-file-management
 # 9. Next Tutorial
 Once you're comfortable with the basics, work through our (short) GitHub tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github.md
 
-Then begin tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
-
-
 
 
 
