@@ -10,7 +10,7 @@ Read this article to find out why JavaScript is important: https://blog.jscrambl
 ### Intro to Javascript
 In Tutorial 1, we used HTML to design a static website. In this tutorial, we will learn how to make our website more interactive by using JavaScript to retrieve, manipulate and display data.
 
-Specifically, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. `jQuery` is a JavaScript library that helps us write JavaScript code easier and faster using a simpler syntax. 
+Specifically, we will be examining the process of getting data from another webserver (specifically, a [REST API](https://www.youtube.com/watch?v=7YcW25PHnAA)) and displaying the data your own webpage with the help of the `jQuery` library. Similar to the `Bootstrap` framework that helps us make coding HTML easier, `jQuery` is a JavaScript library that helps us make writing JavaScript code easier and faster using a simpler syntax. 
 
 Before you begin, 
 
