@@ -70,7 +70,18 @@ Here are some good sources to get you started:
   * [Find out what is CSS](http://html.net/tutorials/css/lesson1.php)
   * Handy tool: Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
   
-**Important Note**: Files uploaded to GitHub are case sensitive, `myphoto.jpg` is not the same as `myphoto.JPG`. To avoid potential headaches, always use lower case for the file extensions (i.e. jpg, not JPG).
+**Important Notes**: 
+
+1. Files uploaded to GitHub are case sensitive, `myphoto.jpg` is not the same as `myphoto.JPG`. To avoid potential headaches, always use lower case for the file extensions (i.e. jpg, not JPG) and the file names `myphoto.jpg` not `Myphoto.jpg`, unless you have a good reason not to.
+
+2. There are a few rules and conventions for naming and organising files for websites:
+
+- Use lowercase exclusively when naming files, as some web servers are sensitive to case.
+- Use alphanumerics only in page names. That is, a-z, 0-9. The only exceptions are: -(dash), _(underscore) and ~ (tilde).
+- Never use spaces in the file name of anything destined for the web, as spaces will be encoded by the server, producing long and ugly URLs. Replace spaces with hyphens.
+- When planning a site, create a naming convention for files and stick to it without exception.
+
+Source: https://thenewcode.com/30/HTML-naming-conventions-and-file-management
   
 # 9. Further Reading
 - Watch this 15-minute video on the Bootstrap Framework: https://www.youtube.com/watch?v=no-Ntkc836w
