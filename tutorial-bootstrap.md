@@ -7,7 +7,7 @@ A responsive site “responds to” or resizes itself depending on the type of d
 Read this article for more information: http://smallbiztrends.com/2013/05/what-is-responsive-web-design.html
 
 ### For Example...
-The site you made using raw HTML in Tutorial 1 would look the same whether it's viewed on a mobile screen or on a desktop computer. Depending on your layout, it might be difficult to read some of the contents or text for your website unless you zoom in on your phone. 
+The site that you've made using raw HTML in Tutorial 1 would look the same whether it's viewed on a mobile screen or on a desktop computer. Depending on your layout, it might be difficult to read some of the contents or text for your website unless you zoom in on your phone. 
 
 > Day by day, the number of devices, platforms, and browsers that need to work with your site grows. Responsive web design represents a fundamental shift in how we’ll build websites for the decade to come. - http://johnpolacek.github.io/scrolldeck.js/decks/responsive/
 
