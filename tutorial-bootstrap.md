@@ -31,12 +31,16 @@ Source: https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/
 # 3. Project: Create a page using Bootstrap on your site
 1. Select a Bootstrap theme that you like (or from any other website, just Google for free Bootstrap themes) from the list below. If you prefer, you can also code a Bootstrap page from scratch, based on what you've learned in Step 2.
 
+2. Create another page with the Bootstrap theme (call it anything you want, i.e. bootstrap.html) and link to it from your main page (i.e. index.html). If you prefer, you can also overwrite your index.html page with the Bootstrap page. 
+
 - Start Bootstrap https://startbootstrap.com/ 
 - Bootswatch https://bootswatch.com/default/
 - Black Tie http://blacktie.co/
 
-2. Create another page with the Bootstrap theme (call it anything you want, i.e. bootstrap.html) and link to it from your main page (i.e. index.html). If you prefer, you can also overwrite your index.html page with the Bootstrap page. 
-
 # Further Reading
 - If you prefer, you can also use a Bootstrap theme: https://startbootstrap.com/ and many other ones available online, Google Bootstrap themes or Bootstrap templates.
 - If you haven't yet, read the [Learn Enough Git tutorial](https://www.learnenough.com/git-tutorial). By now you should be comfortable with concepts such as forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
+
+# Next Tutorial
+Once you're done with the Bootstrap page, try the Javascript tutorial (Tutorial 2): https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
+
