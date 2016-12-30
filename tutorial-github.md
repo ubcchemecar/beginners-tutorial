@@ -83,3 +83,4 @@ Now that you know how to fork projects and create pull requests, if you see any 
 
 # Contributors
 * Siang - Dec 28th 2016 - Note: fire
+* Daniel - Dec 29th 2016 - Note: not fire
