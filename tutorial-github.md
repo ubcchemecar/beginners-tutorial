@@ -1,4 +1,4 @@
-# Welcome to the GitHub tutorial
+# Welcome to Tutorial 1.1: GitHub
 We will go over some basic forking and pull requests in this short tutorial. Forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
 In this tutorial, you will fork this repository, propose some changes, and then create a `pull request` to merge the changes back into this document.
