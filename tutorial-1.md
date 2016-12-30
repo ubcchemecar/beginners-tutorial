@@ -70,7 +70,7 @@ Here are some good sources to get you started:
   * [Find out what is CSS](http://html.net/tutorials/css/lesson1.php)
   * Handy tool: Thimble by Mozilla Firefox updates in realtime the changes that you make to an .html file: https://thimble.mozilla.org/en-GB/
   
-**Important Notes**: 
+### Important Notes 
 
 1. Files uploaded to GitHub are case sensitive, `myphoto.jpg` is not the same as `myphoto.JPG`. To avoid potential headaches, always use lower case for the file extensions (i.e. jpg, not JPG) and the file names `myphoto.jpg` not `Myphoto.jpg`, unless you have a good reason not to.
 
@@ -83,13 +83,7 @@ Here are some good sources to get you started:
 
 Source: https://thenewcode.com/30/HTML-naming-conventions-and-file-management
   
-# 9. Further Reading
-- Watch this 15-minute video on the Bootstrap Framework: https://www.youtube.com/watch?v=no-Ntkc836w
-- If you want to try playing with Bootstrap for your site, read this: https://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/ (Before doing this, we recommend playing around with HTML and CSS first until you're comfortable enough with the basics).
-- If you prefer, you can use a Bootstrap theme: https://startbootstrap.com/ (Before doing this, we recommend playing around with HTML and CSS first until you're comfortable enough with the basics).
-- Read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial and find out what's `git commit`, `git pull` and `git push`. 
-
-# 10. Next Tutorial
+# 9. Next Tutorial
 Once you're comfortable with the basics, work through our (short) GitHub tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github.md
 
 Then begin tutorial 2: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
