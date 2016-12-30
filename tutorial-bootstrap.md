@@ -12,4 +12,4 @@ Read this article for more information: http://smallbiztrends.com/2013/05/what-i
 # Further Reading
 - If you want to try playing with Bootstrap for your site, try this: https://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/
 - If you prefer, you can also use a Bootstrap theme: https://startbootstrap.com/
-- If you haven't yet, read the Learn Enough Git tutorial: https://www.learnenough.com/git-tutorial By now you should be comfortable with concepts such as forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
+- If you haven't yet, read the [Learn Enough Git tutorial](https://www.learnenough.com/git-tutorial). By now you should be comfortable with concepts such as forks, pull requests and other commands such as `git commit`, `git pull` and `git push`.
