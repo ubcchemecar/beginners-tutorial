@@ -8,7 +8,7 @@ Before you begin, take 5 minutes to read this story about the single most valuab
 
 > Technical sophistication is the single most valuable skill you can learn in the 21st century.
 
-Here's an excerpt from the article:
+**Here's an excerpt from the article:**
 
 It made me realize that, as important as programming is, it’s only one part of the much more general and powerful idea of technical sophistication, the combination of hard and soft skills that gives you the seemingly magical ability to solve any technical problem. Technical sophistication includes concrete skills like command lines, text editors, and coding, as well as fuzzier skills like Googling the error message and knowing when to just reboot the darn thing. 
 
