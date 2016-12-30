@@ -61,6 +61,53 @@ function addNumbers(x, y){
 var number = addNumbers(1,2) // returns 3
 ```
 
+# 4. Scopes
+In JavaScript, scope is the set of variables, objects, and functions you have access to.
+
+### Variables declared outside functions
+A variable declared outside a function, becomes GLOBAL. A global variable has global scope: All scripts and functions on a web page can access it. 
+
+```javascript
+var carName = " Volvo";
+
+// code here can use carName
+
+function myFunction() {
+
+    // code here can use carName 
+
+}
+```
+
+### Variables declared inside functions
+Variables declared inside a function are local to that function. Local variables have local scope: They can only be accessed within the function.
+
+```javascript
+// code here can not use carName
+
+function myFunction() {
+    var carName = "Volvo";
+
+    // code here can use carName
+
+}
+```
+
+However, if you assign a value to a variable that has not been declared, it will automatically become global even if it is inside a function:
+
+```javascript
+myFunction();
+
+// code here can use carName 
+
+function myFunction() {
+    carName = "Volvo";
+}
+```
+
+Further reading: http://www.w3schools.com/js/js_scope.asp
+
+
 # Tutorial 3 - Project
 1. Follow our Orgchart tutorial in the Chem-E-Car blog and create a mock orgchart in your website as a separate page (name it orgchart.html or something similar): http://www.ubcchemecar.com/blog/2016/12/24/orgcharts/
 2. You can write random names and roles or partially/fully reproduce the Chem-E-Car junior team orgchart, it's up to you.
