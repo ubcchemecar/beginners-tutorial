@@ -107,6 +107,33 @@ function myFunction() {
 
 Further reading: http://www.w3schools.com/js/js_scope.asp
 
+# 5. Objects
+We talked about objects in Tutorial 2, and here's a short refresher.
+
+You can declare an empty object as follows:
+
+```javascript
+var ChemECar = {};
+```
+
+Properties of an object are stored as key-value pairs, for example, this defines a ChemECar object with 2 keys, battery, year, and 2 corresponding values, a "Zinc-Air" string and a 2017 number:
+
+```javascript
+var ChemECar = {
+    battery:"Zinc-Air",
+    year: 2017
+};
+```
+
+Further reading: 
+
+1. http://www.w3schools.com/js/js_object_definition.asp 
+2. http://javascript.info/tutorial/objects
+
+# 6. Callbacks
+Unlike C in APSC160, functions in JavaScript are also objects. That means we can actually pass around functions as arguments to another function. 
+
+Read this article: [JavaScript Callbacks Explained Using Minions](https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd#.79amnvwvb)
 
 # Tutorial 3 - Project
 1. Follow our Orgchart tutorial in the Chem-E-Car blog and create a mock orgchart in your website as a separate page (name it orgchart.html or something similar): http://www.ubcchemecar.com/blog/2016/12/24/orgcharts/
