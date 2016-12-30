@@ -141,5 +141,5 @@ This tutorial is currently a work in progress, please try the orgchart project b
 1. Follow our Orgchart tutorial in the Chem-E-Car blog and create a mock orgchart in your website as a separate page (name it orgchart.html or something similar): http://www.ubcchemecar.com/blog/2016/12/24/orgcharts/
 2. You can write random names and roles or partially/fully reproduce the Chem-E-Car junior team orgchart, it's up to you.
 3. In your main page, index.html, create a link to your orgchart.html page.
-
+4. Play around with the styles and fonts of the orgchart using CSS.
 
