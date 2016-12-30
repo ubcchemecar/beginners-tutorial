@@ -1,4 +1,4 @@
-# Welcome to the Bootstrap Tutorial
+# Welcome to Tutorial 1.2: Bootstrap
 Bootstrap is a popular framework for developing responsive, mobile-first web sites.
 
 ### What is a reponsive site
