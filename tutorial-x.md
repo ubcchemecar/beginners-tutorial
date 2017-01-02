@@ -21,7 +21,7 @@ Nodejs is a whole topic in itself. It is covered well [here by Daniel Shiffman](
 # 3: Setting Up Git and Nodejs
 1. Go to Github and create a new repository. Download to the desktop.
 2. Open command shell/line and navigate to your repository
-3. type ```npm init``` to intialize nodejs and press enter for every prompt.
+3. type ```npm init``` to create the 'package.json' and intialize nodejs; press enter for every prompt.
 4. type ```npm install express --save``` to set the express module as a dependency
 5. Add a file named index.js and paste this code:
 ```
@@ -31,9 +31,6 @@ var app = express();
 app.set('port', (process.env.PORT || 5000));
 
 app.use(express.static(__dirname + '/public'));
-// app.listen(8080,function(req,res){
-//   console.log("listening");
-// });
 
 // views is directory for all template files
 app.set('views', __dirname + '/views');
@@ -47,11 +44,10 @@ app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
 ```
-
 6. Add a folder named 'public' and add 'index.html' inside the public folder.
 7. Push these additions to the github server with: ```git add > git commit > git push origin master``` 
 
-You've just created a node server. It differs slightly from the tutorial in step 1 but the basis is the same.
+You've just created a node server. It differs slightly from the tutorial in step 1 but the basis is the same. Using express, you will be serving your website from the public folder. You can add other html pages there, and create any kind of front-end scripts here. You may also make changes to index.js to create RESTful routes which will be in another tutorial. As a final note. in step 3. 'index.js' is usually renamed as 'server.js'. 
 
 #6 Deploying Heroku Web Server
 1. In the command shell/line, type ```heroku create```
