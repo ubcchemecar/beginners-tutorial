@@ -22,9 +22,9 @@ Nodejs is a whole topic in itself. It is covered well [here by Daniel Shiffman](
 1. Go to Github and create a new repository. Download to the desktop.
 2. Open command shell/line and navigate to your repository
 3. type ```npm init``` to intialize nodejs and press enter for every prompt.
-4. type '''npm install express --save''' to set the express module as a dependency
+4. type ```npm install express --save``` to set the express module as a dependency
 5. Add a file named index.js and paste this code:
-'''
+```
 var express = require('express');
 var app = express();
 
@@ -45,17 +45,18 @@ app.get('/', function(request, response) {
 
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
-});'''
+});```
 6. Add a folder named 'public' and add 'index.html' inside the public folder.
-7. Push these additions to the github server with: '''git add > git commit > git push origin master''' 
+7. Push these additions to the github server with: ```git add > git commit > git push origin master``` 
 
 You've just created a node server. It differs slightly from the tutorial in step 1 but the basis is the same.
 
 #6 Deploying Heroku Web Server
-1. In the command shell/line, type '''heroku create'''
-2. Type '''git push heroku master'''
-3. View your website with '''heroku open'''
+1. In the command shell/line, type ```heroku create```
+2. Type ```git push heroku master```
+3. View your website with ```heroku open```
 
-Any time you make changes to your web server, you will need to push it to github, and heroku. you will be using '''git push''' and '''git push heroku master''' to keep your webserver updated.
+Any time you make changes to your web server, you will need to push it to github, and heroku. you will be using ```git push``` and ```git push heroku master``` to keep your webserver updated.
+
 
 
