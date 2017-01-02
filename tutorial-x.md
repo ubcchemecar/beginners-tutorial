@@ -45,7 +45,9 @@ app.get('/', function(request, response) {
 
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
-});```
+});
+```
+
 6. Add a folder named 'public' and add 'index.html' inside the public folder.
 7. Push these additions to the github server with: ```git add > git commit > git push origin master``` 
 
