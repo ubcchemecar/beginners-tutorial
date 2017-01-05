@@ -31,13 +31,12 @@ If you do not see that message (which is very likely if you just forked the repo
 To sync your fork, follow these [steps outlined in this website](http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/), as follows:
 
 1. Open the main page of your fork in GitHub
-2. Click the 'Pull Request' icon
-3. Click the 'Switching the Base' link
+2. Click the 'Pull Request' icon near the top right corner
+3. Select your repository from the drop-down menu as the base fork (base fork means the repository you'd like to merge changes into), then click 'Compare across forks', and select the ubcchemecar/beginners-tutorial as the main fork (main fork means the repository you want to compare with, in this case, the upstream repository).
 4. Click on the green 'Create a Pull Request' button
 5. Type a title of your choice and the green button again
 6. Scroll down and click the green 'Merge Pull Request' button and 'Confirm Merge'
 
-**Note: ** If you do not see a 'Switching the Base' link, select your repository as the base fork (base fork means the repository you'd like to merge changes into) and ubcchemecar/beginners-tutorial as the main for (main fork means the repository you want to compare with, in this case, the upstream repository).
 
 Your fork will now be synced with the upstream repository.
 
