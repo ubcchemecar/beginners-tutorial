@@ -7,9 +7,11 @@ Please install the following tools:
 - Sublime Text 3: https://www.sublimetext.com/3
 - Github Desktop: https://desktop.github.com/
 
+Check out the Student Developer Pack by Github, which includes FREE access to many developer tools: https://education.github.com/pack
+
 # 2. Set Up GitHub Repository
 1. Sign up for a free account at www.github.com
-2. Create a new repository (use the '+' plus icon at the top right corner of your screen), name your repository `<username>.github.io` (without the brackets <>, replace username with your Github username). Use the following settings: Public and tick 'Initialize this repository with a README'.
+2. Create a new repository (use the '+' plus icon at the top right corner of your screen for Windows/ top left corner for Macs), name your repository `<username>.github.io` (without the brackets <>, replace username with your Github username). Use the following settings: Public and tick 'Initialize this repository with a README'.
 3. Navigate to the repository and create a new empty file called `index.html`.
 
 # 3. Clone the repository
@@ -35,7 +37,7 @@ Please install the following tools:
 
 # 5. Git Commit and Git Push
 1. Go back to GitHub Desktop and select your repository.
-2. It'll show that you have uncommitted changes. Type in a short description and click commit.
+2. It'll show that you have uncommitted changes (blue dot next to 'Changes' button located at the top for Windows/'Uncommitted Changes' for Macs). Type in a short description and click commit.
 3. Click the sync button.
 4. Navigate to your the GitHub.com repository in your browser and click on the index.html file.
 5. If it shows the new code instead of a blank file then you've successfully `pushed` the changes to GitHub from your computer
@@ -49,7 +51,7 @@ Please install the following tools:
 # 7. Chem-E-Car Subdomain
 We will link your `http://<username>.github.io/` to a Chem-E-Car subdomain at `<USERNAME>.ubcchemecar.com`. Your `<USERNAME>` for the Chem-E-Car sub-domain can be the same as your GitHub username, or something different if you want to change it.
 
-1. Create a new file called `CNAME` in your repository.
+1. Create a new file called `CNAME` (this file should have no extension, easier to do on Github website by clicking the 'Create new file' button) in your repository.
 2. In the CNAME file, type in `<username>.ubcchemecar.com`
 3. Contact Siang to link your `http://<username>.github.io/` site to a Chem-E-Car subdomain, `http://<username>.ubcchemecar.com/`
 
