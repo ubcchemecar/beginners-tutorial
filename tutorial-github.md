@@ -90,6 +90,7 @@ This is a table with 4 columns, don't mess up the table. [Read this section](htt
 | ------------- |:-----------------------------------------------------:|:------------:|:--------------------:|
 | Siang         | [Fire](http://siang.ubcchemecar.com/)                 | LOL          | 28th December 2016   |
 | Daniel        | [Link to website](http://pengpops.ubcchemecar.com/)   | Not fire     | 29th December 2016   |
+| Eric          | [Lit] (http://ericloong.ubcchemecar.com/)             | It's Lit     | 4th  January  2016   |
 
 # Next Tutorial
 When you're done with the Learn Enough Git tutorial, move on to the Bootstrap tutorial: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-bootstrap.md
