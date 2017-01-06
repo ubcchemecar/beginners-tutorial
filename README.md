@@ -14,5 +14,17 @@ It made me realize that, as important as programming is, it’s only one part of
 
 It’s more than "learning to code" — it’s learning to tech, so to speak, which is a much more general and powerful skill than coding alone.
 
-# Tutorial 1
+# Tutorial 1: Introduction
 You can begin with Tutorial 1: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-1.md
+
+# Tutorial 1.1: GitHub
+GitHub: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-github.md
+
+# Tutorial 1.2: Bootstrap
+Learn Bootstrap https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-bootstrap.md
+
+# Tutorial 2: Javascript
+Dynamic content with Javascript: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
+
+# Tutorial 3: More Javascript:
+More JS: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-1.md
