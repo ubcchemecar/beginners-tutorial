@@ -74,7 +74,7 @@ Here are some good sources to get you started:
   
 ### Important Notes 
 
-1. Files uploaded to GitHub are case sensitive, `myphoto.jpg` is not the same as `myphoto.JPG`. To avoid potential headaches, always use lower case for the file extensions (i.e. jpg, not JPG) and the file names `myphoto.jpg` not `Myphoto.jpg`, unless you have a good reason not to.
+1. Files uploaded to GitHub are case sensitive, `myphoto.jpg` is not the same as `myphoto.JPG`. To avoid potential headaches, always use lower case for the file extensions (i.e. jpg, not JPG) and the file names, i.e. `myphoto.jpg` not `Myphoto.jpg` or `Myphoto.JPG`, unless you have a good reason not to.
 
 2. There are a few rules and conventions for naming and organising files for websites:
 
