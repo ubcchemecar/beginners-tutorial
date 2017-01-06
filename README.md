@@ -27,4 +27,4 @@ Learn Bootstrap https://github.com/ubcchemecar/beginners-tutorial/blob/master/tu
 Dynamic content with Javascript: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-2.md
 
 # Tutorial 3: More Javascript:
-More JS: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-1.md
+More JS: https://github.com/ubcchemecar/beginners-tutorial/blob/master/tutorial-3.md
